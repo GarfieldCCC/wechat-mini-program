@@ -1,0 +1,12 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/form/form"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#ff2d55",
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "医疗急救卡"
+    },
+    "sitemapLocation": "sitemap.json"
+}

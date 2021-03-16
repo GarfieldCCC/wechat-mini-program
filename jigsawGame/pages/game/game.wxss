@@ -1,0 +1,13 @@
+/* pages/game/game.wxss */
+/* 提示图 */
+image {
+	width: 250rpx;
+	height: 250rpx;
+}
+
+/* 游戏画布区域 */
+canvas {
+	border: 1rpx solid;
+	width: 300px;
+	height: 300px;
+}
